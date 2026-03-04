@@ -1,0 +1,5 @@
+1) The worst-case time complexity of height(BSTNode *t) is O(n) because the function must visit every node in the tree once to compute the height.
+
+2) The worst-case time complexity of buildFromInputString(const string input) is O(n²) because inserting each value into a worst-case unbalanced binary search
+ tree can take up to O(n) time, and doing this for n values results in O(n²) total work.
+
