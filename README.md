@@ -1,2 +1,1 @@
-# BinarySearchTree
-Binary Search Tree Assignment
+A templated Binary Search Tree (BST) implementation in C++ that supports standard BST operations, rotations, and advanced features like tracking search counts. Designed for educational purposes and to demonstrate templated programming, recursion, and tree operations.
